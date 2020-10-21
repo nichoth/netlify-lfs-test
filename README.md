@@ -19,4 +19,8 @@ netlify lm:install
 
 > Uploading tracked files to the Netlify Large Media storage service requires Git to have access to the /.netlify/large-media path on the connected site. 
 
+> Continue working in your repository as normal. Any files you add or change which match your tracking rules will automatically be handled by Git LFS and Netlify Large Media on every pushed commit.
+
+It works! hurray
+
 
