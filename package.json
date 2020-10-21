@@ -1,0 +1,20 @@
+{
+  "name": "netlify-lfs-test",
+  "description": "Trying netlify & git lfs",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "mkdir -p public && echo hello > public/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nichoth/netlify-lfs-test.git"
+  },
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nichoth/netlify-lfs-test/issues"
+  },
+  "homepage": "https://github.com/nichoth/netlify-lfs-test#readme"
+}
