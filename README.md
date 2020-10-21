@@ -1,6 +1,8 @@
 Trying netlify & git lfs
 
-Doing this: https://docs.netlify.com/large-media/requirements-and-limitations/#requirements
+Doing this:
+* https://docs.netlify.com/large-media/requirements-and-limitations/#requirements
+* https://docs.netlify.com/large-media/setup/#configure-file-tracking
 
 ```
 netlify plugins:install netlify-lm-plugin
