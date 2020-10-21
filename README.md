@@ -37,5 +37,6 @@ It works! hurray
 * [the public foler](https://www.netlifycms.org/docs/configuration-options/#media-and-public-folders)
 * [CMS with lfs](https://docs.netlify.com/large-media/overview/#large-media-docs)
 * [git setup](https://docs.netlify.com/large-media/setup/#configure-file-tracking)
+* https://www.atlassian.com/git/tutorials/git-lfs
 
 
