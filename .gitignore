@@ -90,3 +90,7 @@ node_modules
 
 bundle.js
 public/
+
+# Local Netlify folder
+.netlify
+
